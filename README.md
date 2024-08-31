@@ -6,7 +6,7 @@ This repository shows the process I used to create the logo for my [SnapLink](ht
 
 ## Authors
 
-- [@tanushchauhan](https://www.github.com/octokatherine)
+- [@tanushchauhan](https://github.com/tanushchauhan/)
 
 
 ## Screenshots
